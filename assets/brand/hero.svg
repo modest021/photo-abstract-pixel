@@ -33,7 +33,7 @@
   <rect x="766" y="408" width="98" height="12" fill="#F1B857"/>
   <rect x="864" y="408" width="42" height="12" fill="#6578B2"/>
 
-  <!-- right: compressed still-life memory -->
+  <!-- right: compressed pixel memory -->
   <rect x="950" y="0" width="330" height="480" fill="#E8D5BD"/>
   <rect x="950" y="0" width="330" height="90" fill="#B89A78"/>
   <rect x="950" y="90" width="180" height="38" fill="#D6B893"/>

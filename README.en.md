@@ -19,7 +19,7 @@ A Codex Skill that semantically redraws photographs as restrained abstract pixel
 
 ## ✦ Gallery
 
-Every example was created specifically for this repository from fictional, person-free source material. No private images from prior conversations are included.
+The gallery keeps two original, person-free demonstration pairs and adds two abstract pixel redraws made from user-supplied imagery.
 
 <table>
   <tr><th width="50%">Source</th><th width="50%">Abstract pixel redraw</th></tr>
@@ -28,16 +28,20 @@ Every example was created specifically for this repository from fictional, perso
     <td><img src="./assets/examples/lighthouse-after.png" width="100%" alt="Lighthouse abstract pixel redraw"></td>
   </tr>
   <tr>
-    <td><img src="./assets/examples/still-life-before.png" width="100%" alt="Still life source image"></td>
-    <td><img src="./assets/examples/still-life-after.png" width="100%" alt="Still life abstract pixel redraw"></td>
+    <td><img src="./assets/examples/desert-figures-before.png" width="100%" alt="Desert figures source image"></td>
+    <td><img src="./assets/examples/desert-figures-after.png" width="100%" alt="Desert figures abstract pixel redraw"></td>
   </tr>
   <tr>
     <td><img src="./assets/examples/architecture-before.png" width="100%" alt="Architecture source image"></td>
     <td><img src="./assets/examples/architecture-after.png" width="100%" alt="Architecture abstract pixel redraw"></td>
   </tr>
+  <tr>
+    <td><img src="./assets/examples/sunset-rv-before.png" width="100%" alt="Sunset RV source image"></td>
+    <td><img src="./assets/examples/sunset-rv-after.png" width="100%" alt="Sunset RV abstract pixel redraw"></td>
+  </tr>
 </table>
 
-> Gallery assets demonstrate the output direction only. They are not loaded as runtime style references.
+> The first and third pairs are original repository demonstrations. The second and fourth use user-supplied third-party television imagery; the underlying footage, character likenesses, and marks are not covered by this repository's MIT License. Gallery assets are never loaded as runtime style references. See [asset provenance](./assets/examples/SOURCES.md).
 
 ## ✦ What it is
 
@@ -109,7 +113,7 @@ Read relationships → isolate decisive structure → compress palette → rebui
 
 ## ✦ License
 
-Released under the [MIT License](./LICENSE).
+The Skill, documentation, and original brand assets are released under the [MIT License](./LICENSE). User-supplied third-party examples and their derivative redraws are excluded.
 
 <div align="center">
 

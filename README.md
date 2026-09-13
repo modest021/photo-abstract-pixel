@@ -19,7 +19,7 @@
 
 ## ✦ 效果预览
 
-所有示例均为专为本仓库生成的虚构、无人物素材，不包含此前对话中上传的私人照片。
+画廊保留两组原创、无人物演示素材，并加入两组由用户提供画面生成的抽象像素重绘。
 
 <table>
   <tr>
@@ -31,16 +31,20 @@
     <td><img src="./assets/examples/lighthouse-after.png" width="100%" alt="Lighthouse abstract pixel redraw"></td>
   </tr>
   <tr>
-    <td><img src="./assets/examples/still-life-before.png" width="100%" alt="Still life source image"></td>
-    <td><img src="./assets/examples/still-life-after.png" width="100%" alt="Still life abstract pixel redraw"></td>
+    <td><img src="./assets/examples/desert-figures-before.png" width="100%" alt="Desert figures source image"></td>
+    <td><img src="./assets/examples/desert-figures-after.png" width="100%" alt="Desert figures abstract pixel redraw"></td>
   </tr>
   <tr>
     <td><img src="./assets/examples/architecture-before.png" width="100%" alt="Architecture source image"></td>
     <td><img src="./assets/examples/architecture-after.png" width="100%" alt="Architecture abstract pixel redraw"></td>
   </tr>
+  <tr>
+    <td><img src="./assets/examples/sunset-rv-before.png" width="100%" alt="Sunset RV source image"></td>
+    <td><img src="./assets/examples/sunset-rv-after.png" width="100%" alt="Sunset RV abstract pixel redraw"></td>
+  </tr>
 </table>
 
-> 示例仅用于展示输出方向，不会作为运行时风格参考，也不会把其中的题材或色板带入你的照片。
+> 第一、三组为本仓库原创演示素材；第二、四组采用用户提供的第三方影视截图。相关画面、角色形象与商标不受本仓库 MIT 许可证覆盖。示例不会作为运行时风格参考，详见 [素材来源说明](./assets/examples/SOURCES.md)。
 
 ## ✦ 它是什么
 
@@ -143,7 +147,7 @@ photo-abstract-pixel/
 
 ## ✦ License
 
-本项目采用 [MIT License](./LICENSE)。
+本项目的 Skill、文档及原创品牌素材采用 [MIT License](./LICENSE)。用户提供的第三方示例画面及其衍生重绘不包含在该许可中。
 
 <div align="center">
 
