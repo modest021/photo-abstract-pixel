@@ -13,8 +13,8 @@ These fictional, person-free pairs were generated specifically for this reposito
 
 | Pair | Source description | Identifiable people | Third-party source image |
 | :--- | :--- | :---: | :---: |
-| `desert-figures-before.png` / `desert-figures-after.png` | Three figures, a car, and an object in a desert scene | Yes | Yes |
-| `sunset-rv-before.png` / `sunset-rv-after.png` | RV, two figures, and equipment on a plain at sunset | Yes | Yes |
+| `desert-figures-before.png` / `desert-figures-after.png` | BreakingBad!!! | Yes | Yes |
+| `sunset-rv-before.png` / `sunset-rv-after.png` | BreakingBad!!! | Yes | Yes |
 
 The source images in this section were supplied by the repository owner for gallery use and appear to contain material from a commercially produced television work. The original frames, character likenesses, trademarks, and their derivative redraws are excluded from the repository's MIT License. Their inclusion does not claim ownership, endorsement, or additional reuse rights; anyone reusing them must independently ensure that they have the necessary rights.
 
