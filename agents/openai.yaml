@@ -2,8 +2,8 @@ interface:
   display_name: "Photo Abstract Pixel"
   short_description: "Turn photos into restrained abstract pixel art"
   icon_small: "./assets/brand/icon-small-400.png"
-  icon_large: "./assets/brand/icon-large.svg"
-  brand_color: "#E56B4E"
+  icon_large: "./assets/brand/icon-large.png"
+  brand_color: "#EC684B"
   default_prompt: "Use $photo-abstract-pixel to redraw this uploaded image as restrained abstract pixel art while preserving its composition and color relationships."
 
 policy:

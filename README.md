@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/brand/hero.svg" width="100%" alt="Photo Abstract Pixel — turn photographs into restrained abstract pixel art">
+<img src="./assets/brand/social-preview-1280x640.png" width="100%" alt="Photo Abstract Pixel — read the image, rebuild the relationships">
 
 # Photo Abstract Pixel
 
